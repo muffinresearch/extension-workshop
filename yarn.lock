@@ -330,7 +330,7 @@ eslint-config-airbnb@17.1.0:
     object.assign "^4.1.0"
     object.entries "^1.0.4"
 
-eslint-config-amo@^1.11.0:
+eslint-config-amo@1.11.0:
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/eslint-config-amo/-/eslint-config-amo-1.11.0.tgz#e3fe0e202d4b95f29433c323ae2787a2fda2a6fd"
   integrity sha512-t5tNeGrAVCqMQlnN9gXXBGyMpADUctyEn+Jd+v+1HrKmycnDmI+T6s/p3RFirha+vyuz+OnRgG7XpNclWzAc5w==
@@ -341,7 +341,7 @@ eslint-config-amo@^1.11.0:
     eslint-plugin-jsx-a11y "6.2.0"
     eslint-plugin-react "7.12.4"
 
-eslint-config-prettier@^4.0.0:
+eslint-config-prettier@4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-4.0.0.tgz#16cedeea0a56e74de60dcbbe3be0ab2c645405b9"
   integrity sha512-kWuiJxzV5NwOwZcpyozTzDT5KJhBw292bbYro9Is7BWnbNMg15Gmpluc1CTetiCatF8DRkNvgPAOaSyg+bYr3g==
@@ -399,7 +399,7 @@ eslint-plugin-jsx-a11y@6.2.0:
     has "^1.0.3"
     jsx-ast-utils "^2.0.1"
 
-eslint-plugin-prettier@^3.0.1:
+eslint-plugin-prettier@3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.0.1.tgz#19d521e3981f69dd6d14f64aec8c6a6ac6eb0b0d"
   integrity sha512-/PMttrarPAY78PLvV3xfWibMOdMDl57hmlQ2XqFeA37wd+CJ7WSxV7txqjVPHi/AAFKd2lX0ZqfsOc/i5yFCSQ==
@@ -442,7 +442,7 @@ eslint-visitor-keys@^1.0.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-1.0.0.tgz#3f3180fb2e291017716acb4c9d6d5b5c34a6a81d"
   integrity sha512-qzm/XxIbxm/FHyH341ZrbnMUpe+5Bocte9xkmFMzPMjRaZMcXww+MpBptFvtU+79L362nqiLhekCxCxDPaUMBQ==
 
-eslint@^5.13.0:
+eslint@5.13.0:
   version "5.13.0"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-5.13.0.tgz#ce71cc529c450eed9504530939aa97527861ede9"
   integrity sha512-nqD5WQMisciZC5EHZowejLKQjWGuFS5c70fxqSKlnDME+oz9zmE8KTlX+lHSg+/5wsC/kf9Q9eMkC8qS3oM2fg==
@@ -1120,12 +1120,12 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^1.16.4:
+prettier@1.16.4:
   version "1.16.4"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.16.4.tgz#73e37e73e018ad2db9c76742e2647e21790c9717"
   integrity sha512-ZzWuos7TI5CKUeQAtFd6Zhm2s6EpAD/ZLApIhsF9pRvRtM1RFo61dM/4MSRUA0SuLugA/zgrZD8m0BaY46Og7g==
 
-pretty-quick@^1.10.0:
+pretty-quick@1.10.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/pretty-quick/-/pretty-quick-1.10.0.tgz#d86cc46fe92ed8cfcfba6a082ec5949c53858198"
   integrity sha512-uNvm2N3UWmnZRZrClyQI45hIbV20f5BpSyZY51Spbvn4APp9+XLyX4bCjWRGT3fGyVyQ/2/iw7dbQq1UUaq7SQ==
